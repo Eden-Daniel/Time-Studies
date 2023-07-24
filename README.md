@@ -4,6 +4,8 @@
 
 # Sobre o projeto
  Este projeto é um cronometro que é possível adicionar varias tarefas e depois selecional para iniciar a contagem.
+ 
+ Clique para ver o projeto [Time Studies](https://time-studies-tau.vercel.app/)
 
  # Instruções
  - A dois campos um para adicionar o nome da tarefa e o outro o tempo, preencha os dois e clique em adicionar, aparecerá no lado direito um nome da tarefa com o tempo 
